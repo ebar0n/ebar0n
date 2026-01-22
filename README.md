@@ -2,7 +2,7 @@
 
 ![Github Stats ebar0n](https://github-readme-stats.vercel.app/api?username=ebar0n&count_private=true&hide=stars,issues&show_icons=true&show_owner=true)
 
-- 🔭 I’m currently working on Platzi
+- 🔭 I’m a Software Engineer who loves creating products primarily with the Cloudflare platform and Amazon Web Services, currently working at Platzi, where I’m helping to change lives!
 
 <!--
 **ebar0n/ebar0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
